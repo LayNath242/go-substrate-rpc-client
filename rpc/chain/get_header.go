@@ -17,8 +17,8 @@
 package chain
 
 import (
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/client"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/client"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 // GetHeader retrieves the header for the specific block

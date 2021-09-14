@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/Phala-Network/go-substrate-rpc-client/v3/client"
+import "github.com/LayNath242/go-substrate-rpc-client/v3/client"
 
 // State exposes methods for querying state
 type State struct {

@@ -19,8 +19,8 @@ package types
 import (
 	"fmt"
 
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/scale"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/signature"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/scale"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/signature"
 )
 
 // ExtrinsicPayloadV3 is a signing payload for an Extrinsic. For the final encoding, it is variable length based on

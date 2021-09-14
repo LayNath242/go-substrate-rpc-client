@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 // Properties retrieves a custom set of properties as a JSON object, defined in the chain spec

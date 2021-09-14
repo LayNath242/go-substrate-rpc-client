@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"time"
 
-	gsrpc "github.com/Phala-Network/go-substrate-rpc-client/v3"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/config"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/signature"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	gsrpc "github.com/LayNath242/go-substrate-rpc-client/v3"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/config"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/signature"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 func Example_simpleConnect() {

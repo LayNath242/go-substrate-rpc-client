@@ -17,13 +17,13 @@
 package rpc
 
 import (
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/client"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/rpc/author"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/rpc/chain"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/rpc/offchain"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/rpc/state"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/rpc/system"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/client"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/rpc/author"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/rpc/chain"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/rpc/offchain"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/rpc/state"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/rpc/system"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 type RPC struct {

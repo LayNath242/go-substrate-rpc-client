@@ -18,12 +18,12 @@ package types_test
 
 import (
 	"encoding/binary"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/hash"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/xxhash"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/hash"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/xxhash"
 	"strings"
 	"testing"
 
-	. "github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	. "github.com/LayNath242/go-substrate-rpc-client/v3/types"
 	"github.com/stretchr/testify/assert"
 )
 

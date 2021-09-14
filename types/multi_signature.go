@@ -16,7 +16,7 @@
 
 package types
 
-import "github.com/Phala-Network/go-substrate-rpc-client/v3/scale"
+import "github.com/LayNath242/go-substrate-rpc-client/v3/scale"
 
 // MultiSignature
 type MultiSignature struct {

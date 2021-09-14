@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/client"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/client"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 // GetRuntimeVersion returns the runtime version at the given block

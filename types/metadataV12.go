@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/scale"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/scale"
 )
 
 // Modelled after packages/types/src/Metadata/v11/toV12.ts

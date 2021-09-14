@@ -24,8 +24,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/scale"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/signature"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/scale"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/signature"
 )
 
 const (

@@ -19,8 +19,8 @@ package types_test
 import (
 	"testing"
 
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/signature"
-	. "github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/signature"
+	. "github.com/LayNath242/go-substrate-rpc-client/v3/types"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 // Health retrieves the health status of the connected node

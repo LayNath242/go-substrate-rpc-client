@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/config"
-	gethrpc "github.com/Phala-Network/go-substrate-rpc-client/v3/gethrpc"
-	"github.com/Phala-Network/go-substrate-rpc-client/v3/types"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/config"
+	gethrpc "github.com/LayNath242/go-substrate-rpc-client/v3/gethrpc"
+	"github.com/LayNath242/go-substrate-rpc-client/v3/types"
 )
 
 // ExtrinsicStatusSubscription is a subscription established through one of the Client's subscribe methods.
